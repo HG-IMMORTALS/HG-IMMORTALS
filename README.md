@@ -89,7 +89,7 @@
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=gmail
+[gmail-shield]: https://img.shields.io/badge/-Hemant%20Gaur-grey?style=flat&logo=gmail
 [gmail-url]: mailto:hemantgaur2846@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-Hemant%20Gaur-blue?style=flat&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/hg-immortals/
