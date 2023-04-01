@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ashish Joshi(AJTITAN) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Hemant gaur(HG-IMMORTALS) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
@@ -57,46 +57,46 @@
 
 <div align="center">
 
-  <a href="https://github.com/AJTITAN">![Footer quote][quote-url]</a>
+  <a href="https://github.com/hg-immortals">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AJTITAN/count.svg" />
+  <img src="https://profile-counter.glitch.me/HG-IMMORTALS/count.svg" />
 </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=AJTITAN
-[github-stars-shield]: https://img.shields.io/github/stars/AJTITAN?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=AJTITAN&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/AJTITAN?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=AJTITAN
-[leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
-[github-followers-shield]: https://img.shields.io/github/followers/AJTITAN?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=AJTITAN&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=AJTITAN&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/AJTITAN/solved?color=orange&logo=leetcode
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=HG-IMMORTALS
+[github-stars-shield]: https://img.shields.io/github/stars/HG-IMMORTALS?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=HG-IMMORTALS&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/HG-IMMORTALS?theme=dark&font=Roboto&ext=heatmap
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=HG-IMMORTALS
+[leetcode-url]: https://leetcode.com/HG-IMMORTALS/
+[gfg-url]: https://auth.geeksforgeeks.org/user/hamentgaur123
+[github-followers-shield]: https://img.shields.io/github/followers/HG-IMMORTALS?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=HG-IMMORTALS&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=HG-IMMORTALS&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=HG-IMMORTALS&theme=algolia
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/HG-IMMORTALS/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/AJTITAN
-[gfg-url]: https://auth.geeksforgeeks.org/user/AJTITAN
-[hackerrank-shield]: https://img.shields.io/badge/-ASHISH%20JOSHI-black?style=flat&logo=hackerrank
-[hackerrank-url]: https://www.hackerrank.com/AJTITAN
+[leetcode-url]: https://leetcode.com/HG-IMMORTALS
+[gfg-url]:https://auth.geeksforgeeks.org/user/hamentgaur123
+[hackerrank-shield]: https://img.shields.io/badge/-HEMANT%20GAUR-black?style=flat&logo=hackerrank
+[hackerrank-url]: https://www.hackerrank.com/HG_IMMORTALS
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
 [ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 [gmail-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=gmail
-[gmail-url]: mailto:ashishjoshi2023@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/ajtitan
-[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
-[linkedin-shield]: https://img.shields.io/badge/-Ashish%20Joshi-blue?style=flat&logo=linkedin&logoColor=white
-[github-shield]: https://img.shields.io/badge/-Ashish%20Joshi-black?style=flat&logo=github
+[gmail-url]: mailto:hemantgaur2846@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/-Hemant%20Gaur-blue?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/hg-immortals/
+[github-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=github
+[linkedin-shield]: https://img.shields.io/badge/-Hemant%20Gaur-blue?style=flat&logo=linkedin&logoColor=white
+[github-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-Ashish%20Joshi-grey?style=flat&logo=leetcode
-[gfg-shield]: https://img.shields.io/badge/-Ashish%20Joshi-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/AJTITAN
+[leetcode-shield]: https://img.shields.io/badge/-Hemant%20Gaur-grey?style=flat&logo=leetcode
+[gfg-shield]: https://img.shields.io/badge/-Hemant%20Gaur-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
+[github-url]: https://github.com/HG-IMMORTALS
