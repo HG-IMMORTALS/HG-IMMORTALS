@@ -82,8 +82,8 @@
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/HG-IMMORTALS
 [gfg-url]:https://auth.geeksforgeeks.org/user/hamentgaur123
-[hackerrank-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=hackerrank
-[hackerrank-url]: https://www.hackerrank.com/HG_IMMORTALS
+<!-- [hackerrank-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=hackerrank -->
+<!-- [hackerrank-url]: https://www.hackerrank.com/HG_IMMORTALS -->
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
