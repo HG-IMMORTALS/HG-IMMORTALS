@@ -29,7 +29,7 @@
 
 </div>
 
-### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats
+<!--### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats-->
 <div align="center">
 
   <a>![Github trophy][github-trophy]</a>
