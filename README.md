@@ -81,7 +81,7 @@
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/HG-IMMORTALS/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
 [leetcode-url]: https://leetcode.com/HG-IMMORTALS
-[gfg-url]:https://auth.geeksforgeeks.org/user/hamentgaur123
+[gfg-url]:https://auth.geeksforgeeks.org/user/hg-immortals
 [hackerrank-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=hackerrank
 [hackerrank-url]: https://www.hackerrank.com/HG_IMMORTALS
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
