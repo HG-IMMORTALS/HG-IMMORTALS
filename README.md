@@ -71,9 +71,9 @@
 [github-stars-shield]: https://img.shields.io/github/stars/HG-IMMORTALS?style=social
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=HG-IMMORTALS&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/HG-IMMORTALS?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=hamentgaur123
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=hg-immortals
 [leetcode-url]: https://leetcode.com/HG-IMMORTALS/
-[gfg-url]: https://auth.geeksforgeeks.org/user/hamentgaur123
+[gfg-url]: https://auth.geeksforgeeks.org/user/hg-immortals
 [github-followers-shield]: https://img.shields.io/github/followers/HG-IMMORTALS?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=HG-IMMORTALS&theme=algolia
 [github-streak]: https://streak-stats.demolab.com?user=HG-IMMORTALS&theme=algolia
